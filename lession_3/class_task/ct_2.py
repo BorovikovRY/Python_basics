@@ -1,0 +1,5 @@
+a = int(input('enter natural number: '))
+result_1 = (a * 2)
+result_2 = (a / 2)
+print(result_1)
+print(result_2)

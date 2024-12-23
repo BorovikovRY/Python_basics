@@ -1,0 +1,5 @@
+a = float(input('enter length: '))
+b = float(input('enter width: '))
+area = (a * b)
+perimetr = (2*(a + b ))
+print(area,perimetr)
