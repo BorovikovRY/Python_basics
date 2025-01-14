@@ -6,3 +6,4 @@ workers = {
 }
 workers["Brad"]["salary"] = 8500
 pprint.pprint(workers)
+print("-" * 3)
